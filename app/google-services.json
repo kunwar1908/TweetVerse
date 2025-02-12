@@ -7,15 +7,15 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1096684577472:android:7c1ddae4d9caa6a029c325",
+        "mobilesdk_app_id": "1:10966845774",
         "android_client_info": {
-          "package_name": "com.example.tweetit"
+          "package_name": "com.example.yourappname"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC0mqOnG2whcLXcZl51xPO8owNfT8N4vd4"
+          "current_key": "YOUR KEY HERE"
         }
       ],
       "services": {
